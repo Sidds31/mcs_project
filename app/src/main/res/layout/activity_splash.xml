@@ -51,14 +51,14 @@
 
         <TextView
             android:id="@+id/textView2"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:gravity="center"
-            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
             android:fontFamily="@font/poppins_bold"
-            android:textSize="@dimen/_10sdp"
+            android:gravity="center"
             android:text="@string/vivekanand_education_society_s_institute_of_technology_an_autonomous_institute_affiliated_to_university_of_mumbai"
-            android:textAlignment="center"/>
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_10sdp" />
     </FrameLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
